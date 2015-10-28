@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bower",
+  "homepage": "https://github.com/Homebrew/homebrew",
+  "authors": [
+    "duoduok"
+  ],
+  "description": "duoduok",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "kid1412"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
